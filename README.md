@@ -1,10 +1,10 @@
 # Kodluyoruz İlk Repo
-Bu repo Kodluyoruz GIT Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası ve indx.html dosyası barındırıyor.
+Bu repo Kodluyoruz GIT Eğitimi kapsamında açtığım ilk repodur. İçerisinde bir adet README dosyası ve index.html dosyası barındırıyor.
 
 ![Kodluyoruz](https://res.cloudinary.com/danielkapper-com/image/upload/v1577156572/logo-one.png)
 
 ## Installation 
-Öncelikle projeyi klonlayın. 
+Öncelikle projeyi clonelayın. 
 
 ```
 git clone https://github.com/csenaesenboga/kodluyoruzilkrepo.git
